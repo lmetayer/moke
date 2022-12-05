@@ -1,1 +1,25 @@
-{'nummats': [int, int, int]}
+{"58435" :{
+  "nummat" : 58435,
+  "van" : "82345678",
+  "chassis" : "NULL",
+  "date" : "2021-09-06 00:00:00",
+  "controlleur" : "lucas",
+  "site" : "www.test.com"
+},
+"52204" :{
+  "nummat" : 52204,
+  "van" : "82345678",
+  "chassis" : "NULL",
+  "date" : "2021-09-06 00:00:00",
+  "controlleur" : "lucas",
+  "site" : "www.test.com"
+},
+"58435" :{
+  "nummat" : 34444,
+  "van" : "34444",
+  "chassis" : "NULL",
+  "date" : "2021-09-06 00:00:00",
+  "controlleur" : "lucas",
+  "site" : "www.test.com"
+}
+}
