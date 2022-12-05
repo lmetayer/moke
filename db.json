@@ -1,3 +1,1 @@
-{
-  "nummats": [3, 4, 5]
-}
+{'nummats': [int, int, int]}
